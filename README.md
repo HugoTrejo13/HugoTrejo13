@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computer Systems Engineering student at Universidad de Guadalajara. PMO Intern at iNBest with interest in backend development, cloud, AI
 <!--
 **HugoTrejo13/HugoTrejo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
