@@ -25,7 +25,7 @@ I'm a **6th-semester Computer Science Engineering student** at Universidad de Gu
 - 💼 **PMO Intern** at iNBest — project governance, data migrations & workflow automations
 - ☁️ **AWS Certified Cloud Practitioner** — valid through February 2029
 - 🤖 Currently learning: AI tools, cloud automation, and workflow orchestration
-- 🎸 Off the keyboard: guitar, good rock music & Chivas soccer
+- 🎸 Off the keyboard: guitar, good rock music & music 
 
 ---
 
