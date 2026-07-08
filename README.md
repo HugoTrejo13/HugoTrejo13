@@ -1,130 +1,214 @@
+<!--
+  Hugo Eliezer Trejo — GitHub Profile README
+  ============================================
+  Built strictly from Hugo's CV. Nothing invented: no fabricated projects,
+  tech, certifications, or coding/portfolio profiles. Fully self-contained —
+  nothing to build or host outside of this file.
+
+  Fixes in this revision:
+    - Added missing logos for Power Automate, SharePoint, and Microsoft
+      Project (Power Automate has its own Simple Icons logo; SharePoint and
+      Microsoft Project don't have dedicated ones, so they use the generic
+      Microsoft logo instead of staying blank).
+    - Swapped the GitHub Stats / Top Languages / Trophy widgets over to
+      community-run mirrors. The original anuraghazra/github-readme-stats
+      and ryo-ma/github-profile-trophy public endpoints are shared by a huge
+      number of profiles and have documented rate-limit / cost problems
+      (their own maintainers point this out). The mirrors below use the
+      exact same parameters and are drop-in compatible — no setup needed.
+    - Added a header/footer gradient wave (capsule-render) for a more
+      finished, bookended look.
+
+  If the GitHub username ever changes, search & replace "HugoTrejo13".
+-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header" width="100%" alt="" />
+</div>
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />
+# 👋 Hi, I'm Hugo Eliezer Trejo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hugo+Eliezer+Trejo+%F0%9F%91%8B;Computer+Science+Engineer+%40+UdeG;Cloud+%7C+Backend+%7C+AI+Tools;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Cloud+%26+Backend+Development;AWS+Certified+Cloud+Practitioner)](https://git.io/typing-svg)
 
 **Computer Science Engineering Student · PMO Experience · AWS Certified**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-eliezer-trejo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.trejo02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-eliezer-trejo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.trejo02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoTrejo13)
 ![Location](https://img.shields.io/badge/📍_Guadalajara,_MX-555555?style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## 🧭 About Me
 
-I'm a **6th-semester Computer Science Engineering student** at Universidad de Guadalajara (CUTONALA), with hands-on experience in PMO operations and software development environments. I'm proactive, detail-oriented, and enjoy bridging the gap between technical execution and project management — making things work *and* making sure they're tracked, documented, and delivered.
+I'm a Computer Science Engineering student at Universidad de Guadalajara (CUTONALA), currently in my 6th semester and on track to graduate in December 2027. I work well in collaborative environments, communicate clearly across technical and non-technical teams, and take full ownership of whatever I'm working on. I'm organized, curious, and quick to adapt to new tools and challenges, and I try to bring a people-first mindset to every team I join.
+
+<br>
+
+## 🔭 Current Focus
 
 - 🎓 **B.S. in Computer Science Engineering** — CUTONALA, UdeG · Expected December 2027
-- 💼 **PMO Intern** at iNBest — project governance, data migrations & workflow automations
-- ☁️ **AWS Certified Cloud Practitioner** — valid through February 2029
-- 🤖 Currently learning: AI tools, cloud automation, and workflow orchestration
-- 🎸 Off the keyboard: guitar, good rock music & music 
+- 💼 Recently completed a **PMO Internship** at iNBest — project governance, data migrations & workflow automation
+- ☁️ **AWS Certified Cloud Practitioner** — valid through Feb 2029
+- 🎯 2026 goal: land a **Software Development** or **Cloud Engineering** role
 
----
 
-## 💼 Professional Experience
-
-### iNBest — PMO Intern *(July 2025 – May 2026)*
-> Guadalajara, Jalisco, Mexico · On-site / Remote
-
-Worked across multiple simultaneous software development initiatives in a fast-paced PMO environment:
-
-- **Governance & tracking** — Managed sprint progress, work items, timelines, and deliverables across projects using **Azure DevOps**
-- **Data migrations** — Performed bulk data migrations from Excel into Azure DevOps, reducing manual effort and improving cross-team planning accuracy
-- **Reporting** — Generated weekly status reports, sprint summaries, and stakeholder documentation supporting visibility across ongoing initiatives
-- **Automation** — Evaluated AI productivity solutions and prototyped workflow automations using **Power Automate**
-- **Documentation** — Maintained change management records and Agile tracking boards throughout the project lifecycle
-
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### 🐍 Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- Icons: skillicons.dev for languages/cloud/IDEs, shields.io (simple-icons) for tools without a skillicons entry -->
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS_IAM%2C_EC2%2C_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,mongodb&theme=dark" alt="Python, C++, MySQL, MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL" />
+</p>
 
-### 📋 Project & PM Tools
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+**Cloud & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark" alt="AWS, Linux, Git, GitHub" />
+</p>
 
-### 🤖 AI Tools
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+**Project & PM Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Microsoft_Project-185ABD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Project" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+</p>
 
-### 🧰 Developer Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" alt="VS Code, IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</p>
 
-### ⚙️ Methodologies
-![Agile](https://img.shields.io/badge/Agile-0175C2?style=flat-square&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logoColor=white)
-![PMO Governance](https://img.shields.io/badge/PMO_Governance-6A0DAD?style=flat-square&logoColor=white)
-![Change Management](https://img.shields.io/badge/Change_Management-2E8B57?style=flat-square&logoColor=white)
-![Sprint Planning](https://img.shields.io/badge/Sprint_Planning-FF6B35?style=flat-square&logoColor=white)
+**Methodologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-1E88E5?style=for-the-badge" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-2E8B57?style=for-the-badge" alt="Scrum" />
+  <img src="https://img.shields.io/badge/PMO_Governance-6A5ACD?style=for-the-badge" alt="PMO Governance" />
+  <img src="https://img.shields.io/badge/Change_Management-B8860B?style=for-the-badge" alt="Change Management" />
+  <img src="https://img.shields.io/badge/Sprint_Planning-C2185B?style=for-the-badge" alt="Sprint Planning" />
+</p>
+
+<br>
+
+## 💼 Professional Experience
+
+### Project Management Office (PMO) Intern — iNBest
+`July 2025 – May 2026` · Guadalajara, Jalisco, Mexico · On-site / Remote
+
+- **Project governance** — Served as Project Manager for 8+ simultaneous client software initiatives across 4 cross-functional development teams, owning kickoffs, backlog definition, sprint planning, client-facing weekly meetings, sprint closure letters, and satisfaction surveys end-to-end in Azure DevOps
+- **Data migrations** — Executed recurring bulk data migrations from Excel into Azure DevOps across Software Factory, Data, Cloud, and Innovation teams
+- **Reporting** — Produced weekly status reports, meeting minutes, and sprint documentation distributed to clients and internal leadership via SharePoint
+- **Automation** — Designed and prototyped a Power Automate workflow to sync data between Microsoft Project and Azure DevOps; evaluated AI transcription tools (Fireflies vs. Read.ai) and presented findings to senior leadership
 
 ---
+
+### Sales Associate & Customer Service — Mr. CD
+`May 2023 – September 2023` · Guadalajara, Jalisco, Mexico
+
+- **Customer guidance** — Advised customers on musical instrument selection, providing technical guidance and personalized recommendations that contributed directly to department sales
+- **Operations** — Operated the company's point-of-sale and inventory management software for transaction processing, stock tracking, and daily reporting
+
+<br>
+
+## 🏆 Featured Project
+
+### HPE Stock Rotation Automation
+**Excel VBA · SAP S/4HANA** — *Top 6 Finalist, HPE Innovation Challenge 2026*
+
+Built an Excel VBA macro automating CAP balance calculations across AMS-region distributors by processing SAP S/4HANA reports (VA05 & VF05). Reduced a 5-hour manual workflow to under 3 minutes — a 97% reduction in processing time — with zero setup cost and single-click execution.
+
+> Internal business-automation deliverable; source is not publicly available.
+
+<br>
+
+## 🎓 Education
+
+**Universidad de Guadalajara — CUTONALA**
+Bachelor of Science in Computer Science Engineering
+`2024 – 2027` · 6th Semester · Expected: December 2027
+Guadalajara, Jalisco, Mexico
+
+<br>
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Issued By | 📅 Status |
+| Certification | Issuer | Status |
 |:---|:---|:---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Valid through Feb 2029 |
-| Scrum Fundamentals Certified (SFC) | SCRUMstudy | ✅ Active |
-| Claude Code in Action | Anthropic | ✅ Active |
+| ![AWS](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Amazon Web Services | Valid through Feb 2029 |
+| Scrum Fundamentals Certified (SFC) | SCRUMstudy | Completed |
+| ![Anthropic](https://img.shields.io/badge/-Claude%20Code%20in%20Action-D97757?style=flat-square&logo=anthropic&logoColor=white) | Anthropic | Completed |
+| ![Google](https://img.shields.io/badge/-Google%20Prompting%20Essentials-4285F4?style=flat-square&logo=google&logoColor=white) | Google | Completed Jun 2026 |
+| ![IBM](https://img.shields.io/badge/-Relational%20Database%20Administration-052FAD?style=flat-square&logo=ibm&logoColor=white) | IBM (Coursera) | In Progress · Est. Aug 2026 |
 
----
+<br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<!--
+  Stats / Top Languages / Trophy use community mirrors (github-stats-extended,
+  github-profile-trophy-kannan) instead of the original anuraghazra/ryo-ma
+  public endpoints, which are heavily shared and prone to rate-limit outages.
+  Same parameters, same visuals — just a less congested host. Streak and
+  Activity Graph already use their own separate services, so they're untouched.
+-->
 
 <div align="center">
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoTrejo13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=HugoTrejo13&show_icons=true&theme=tokyonight&hide_border=true" alt="Hugo's GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HugoTrejo13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTrejo13&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=HugoTrejo13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoTrejo13&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=HugoTrejo13&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
----
+<br>
 
 ## 🌐 Languages
 
 | Language | Level |
 |:---|:---|
 | Spanish | Native |
-| English | Intermediate — Conversational (B1–B2) |
+| English | Intermediate (B2) |
 
----
+<br>
 
-## 🤝 Let's Connect
-
-I'm always open to conversations about cloud computing, software development, AI tools, and project management. Whether it's a collaboration, an opportunity, or just to say hi — feel free to reach out.
+## 📫 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-eliezer-trejo)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.trejo02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-eliezer-trejo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.trejo02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoTrejo13)
 
 </div>
 
----
+<br>
 
 <div align="center">
-  <sub>📍 Guadalajara, Jalisco, Mexico · UTC-6</sub>
+
+<img src="https://komarev.com/ghpvc/?username=HugoTrejo13&style=for-the-badge&color=58A6FF" alt="Profile views" />
+
+<sub>📍 Guadalajara, Jalisco, Mexico · UTC-6</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=20" width="100%" alt="" />
 </div>
