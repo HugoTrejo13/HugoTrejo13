@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="84" viewBox="0 0 292 84">
+<style>text{font:500 11px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#848D97}</style>
+<title>Object-Oriented Programming, Data Structures &amp; Algorithms, Microservices</title>
+<svg x="0" y="0" width="48" height="48" viewBox="0 0 256 256"><rect width="256" height="256" rx="60" fill="#242938"/><svg x="40.0" y="40.0" width="176" height="176" viewBox="0 0 24 24"><path fill="#58A6FF" d="M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18s-.41-.06-.57-.18l-7.9-4.44A.99.99 0 0 1 3 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18s.41.06.57.18l7.9 4.44c.32.17.53.5.53.88zM12 4.15L6.04 7.5L12 10.85l5.96-3.35zM5 15.91l6 3.38v-6.71L5 9.21zm14 0v-6.7l-6 3.37v6.71z"/></svg></svg>
+<text x="0" y="63">Object-Oriented</text>
+<text x="0" y="77">Programming</text>
+<svg x="100" y="0" width="48" height="48" viewBox="0 0 256 256"><rect width="256" height="256" rx="60" fill="#242938"/><svg x="40.0" y="40.0" width="176" height="176" viewBox="0 0 24 24"><path fill="#58A6FF" d="M3 3h6v4H3zm12 7h6v4h-6zm0 7h6v4h-6zm-2-4H7v5h6v2H5V9h2v2h6z"/></svg></svg>
+<text x="100" y="63">Data Structures</text>
+<text x="100" y="77">&amp; Algorithms</text>
+<svg x="200" y="0" width="48" height="48" viewBox="0 0 256 256"><rect width="256" height="256" rx="60" fill="#242938"/><svg x="40.0" y="40.0" width="176" height="176" viewBox="0 0 24 24"><path fill="#58A6FF" d="M10.25 2c.19 0 .36.11.44.26l2.22 3.96l.09.28l-.09.28l-2.22 3.96c-.08.15-.25.26-.44.26h-4.5c-.19 0-.36-.11-.44-.26L3.09 6.78L3 6.5l.09-.28l2.22-3.96c.08-.15.25-.26.44-.26zm0 11c.19 0 .36.11.44.26l2.22 3.96l.09.28l-.09.28l-2.22 3.96c-.08.15-.25.26-.44.26h-4.5c-.19 0-.36-.11-.44-.26l-2.22-3.96L3 17.5l.09-.28l2.22-3.96c.08-.15.25-.26.44-.26zm9.25-5.5c.19 0 .36.11.44.26l2.22 3.96l.09.28l-.09.28l-2.22 3.96c-.08.15-.25.26-.44.26H15c-.19 0-.36-.11-.44-.26l-2.22-3.96l-.09-.28l.09-.28l2.22-3.96c.08-.15.25-.26.44-.26z"/></svg></svg>
+<text x="200" y="63">Microservices</text>
+</svg>
